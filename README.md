@@ -37,7 +37,7 @@ Transfer-learning-based-poultry-disease-classification-system/
 │
 ├── model/
 │   ├── chicken_model.keras # Final Keras model
-│   └── efficientnetb3-Chicken Disease-98.27.h5 # Original model
+│   └── efficientnetb3-Chicken-Disease.h5 # Original model
 │
 ├── static/
 │   ├── style.css           # Custom styles
