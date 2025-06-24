@@ -29,11 +29,10 @@ Veterinary students use the app for hands-on training, learning to diagnose and 
 ## Folder Structure
 
 ```
-Usha/
+Transfer-learning-based-poultry-disease-classification-system/
 │
 ├── app.py                  # Main Flask application
-├── convert_model.py        # Script to convert .h5 model to .keras format
-├── chicken-disease-97.ipynb# Model training and experimentation notebook
+├── chicken-disease.ipynb   # Model training and experimentation notebook
 ├── README.md               # Project documentation
 │
 ├── model/
@@ -50,8 +49,7 @@ Usha/
 │
 ├── templates/
 │   └── index.html          # Main HTML template
-│
-└── tfenv/                  # Python virtual environment
+
 ```
 
 ---
